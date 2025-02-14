@@ -1,48 +1,54 @@
-# reBOT TIKTOK By WONG
+<div align="center">
+  
+# 🎵 reBOT TIKTOK By WONG 🎵
+### *Your Ultimate TikTok Automation Companion* ✨
 
-Bot otomatis untuk upload video ke TikTok dengan fitur AI dan optimasi video.
+![TikTok Theme](https://img.shields.io/badge/Theme-TikTok-ff0050)
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-## Fitur Utama
+<img src="https://i.imgur.com/YW3KxEp.gif" width="400px">
 
-### Upload Video
-- Upload multiple video sekaligus
-- Pengaturan privasi (Public/Friends/Private/Draft)
-- Keep original music option
-- Headless mode support
-- Progress tracking realtime
+</div>
 
-### Video Processing
-- Trim durasi video
-- Konversi ratio (9:16, 16:9, 1:1)
-- Padding otomatis
-- Optimasi untuk TikTok
+---
 
-### AI Features (Powered by Gemini)
-- Generate caption otomatis
-- Generate hashtag trending
-- Content ideas generator
-- Smart caption formatting
+## ✨ Features That Make You Viral
 
-### Manajemen Upload
-- Schedule upload
-- Save as draft
-- Session management
-- Login cookies support
+### 🎬 Smart Video Upload
+- 📤 Batch upload multiple videos
+- 🔒 Privacy control (Public/Friends/Private/Draft)
+- 🎵 Original sound preservation
+- 👻 Stealth mode operation
+- 📊 Real-time progress tracking
 
-### UI Features
-- Dark mode interface
-- Progress bar animasi
-- Split log view
-- Custom alert dialog
-- Responsive design
+### 🎨 Pro Video Processing
+- ✂️ Smart duration trimming
+- 📐 Ratio conversion (9:16, 16:9, 1:1)
+- 🖼️ Auto padding system
+- ⚡ TikTok optimization
 
-## Persyaratan Sistem
+### 🤖 AI Magic (Powered by Gemini)
+- ✍️ Auto caption generation
+- 🏷️ Trending hashtag finder
+- 💡 Viral content ideation
+- 🎯 Smart formatting
 
-- Python 3.8+
-- Edge Browser
-- Edge WebDriver
-- FFmpeg
+### ⚙️ Upload Management
+- ⏰ Schedule uploads
+- 💾 Draft saving
+- 🔄 Session handling
+- 🍪 Cookie-based auth
 
-## Instalasi
+### 🎮 Sleek UI Features
+- 🌙 Dark mode interface
+- 🌈 Animated progress
+- 📋 Dual log system
+- 🪟 Custom alerts
+- 📱 Responsive design
 
-1. Install dependencies:
+---
+
+## 🚀 Quick Start Guide
+
+### 📋 Prerequisites
